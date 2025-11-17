@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1> Home page </h1>
+    <p> This is first mobile react project using termux </p>
     </div>
   );
 }
